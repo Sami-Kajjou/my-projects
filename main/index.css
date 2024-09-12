@@ -1,0 +1,151 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Work Sans', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.header {
+    background-color: #eee;
+    height: 50px;
+    margin-bottom: 10px;
+    padding: 10px 5px;
+    position: relative;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    .logo {
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        position: absolute;
+        img {
+            width: 40px;
+            height: 40px;
+        }
+    }
+    .log-sign {
+        display: flex;
+        gap: 10px;
+    }
+}
+
+.container {
+    position: relative;
+    height: 1000px;
+    width: 100%;
+    background-image: url("../image/pexels-rachel-claire-7263400.jpg");
+    background-size: cover;
+    background-position: center;
+    .welcome-div {
+        padding: 0 10px;
+        position: absolute;
+        width: 250px;
+        height: 250px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        left: 10%;
+        top: 10%;
+        transform: translate(-10%, -10%);
+        background-color: #ccc;
+        text-align: center;
+        .text {
+            h2 {
+                font-size: 40px;
+            }
+            p {
+                font-size: 30px;
+            }
+        }
+    }
+    .friends-div {
+        position: absolute;
+        right: 10%;
+        bottom: 10%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: #ccc;
+        padding: 10px 0 0;
+        width: 500px;
+        height: 370px;
+        .con {
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+            img {
+                width: 470px;
+                height: 300px;
+            }
+            p {
+                font-size: 17px;
+                padding: 10px 15px;
+                margin: 0;
+            }
+        }
+    }
+}
+
+footer {
+    margin-top: 10px;
+    background-color: #5c5c5c;
+    color: black;
+    min-height: 200px;
+    p.copy {
+        font-size: 20px;
+        padding: 15px;
+        width: fit-content;
+        margin: auto;
+    }
+    .media {
+        padding: 0 0 15px 15px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        border-top: 1px solid #808080;
+        img {
+            width: 45px;
+        }
+        ul {
+            border-top: 1px solid #808080;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 50px;
+            padding: 20px 0;
+            width: 100%;
+            a {
+                position: relative;
+            }
+            span {
+                color: black;
+                position: absolute;
+                left: 50%;
+                bottom: -20px;
+                transform: translateX(-50%);
+            }
+        }
+    }
+}

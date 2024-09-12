@@ -1,0 +1,823 @@
+{
+    "status": "ok",
+    "total": "100",
+    "books": [
+
+        {
+            "id": "24",
+            "title": "Life of Pi",
+            "subtitle": "Life of Pi is a fantasy adventure novel by Yann Martel published in 2001. The protagonist, Piscine Molitor \"Pi\" Patel, a Tamil boy from Pondicherry, explores issues of spirituality and practicality from an early age. He survives 227 days after a shipwreck while stranded on a boat in the Pacific Ocean with a Bengal tiger named Richard Parker.",
+            "authors": "Yann Martel",
+            "image": "..\\new_books_image\\4214.jpg",
+            "url": "https:\/\/www.amazon.com\/gp\/product\/0770430074\/ref=x_gr_bb_amazon?ie=UTF8&tag=x_gr_bb_amazon-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0770430074&SubscriptionId=1MGPYB6YW3HWK55XCGG2"
+        },
+        {
+            "id": "23",
+            "title": "The Namesake",
+            "subtitle": "Jhumpa Lahiri's Interpreter of Maladies established this young writer as one the most brilliant of her generation. Her stories are one of the very few debut works -- and only a handful of collections -- to have won the Pulitzer Prize for fiction. Among the many other awards and honors it received were the New Yorker Debut of the Year award, the PEN\/Hemingway Award, and the highest critical praise for its grace, acuity, and compassion in detailing lives transported from India to America.",
+            "authors": "Jhumpa Lahiri",
+            "image": "..\\new_books_image\\33917.jpg",
+            "url": "https:\/\/www.amazon.com\/gp\/product\/0965141667\/ref=x_gr_bb_amazon?ie=UTF8&tag=x_gr_bb_amazon-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0965141667&SubscriptionId=1MGPYB6YW3HWK55XCGG2"
+        },
+        {
+            "id": "22",
+            "title": "next of kin",
+            "subtitle": "For 30 years Roger Fouts has pioneered communication with chimpanzees through sign language--beginning with a mischievous baby chimp named Washoe. This remarkable book describes Fout's odyssey from novice researcher to celebrity scientist to impassioned crusader for the rights of animals. Living and conversing with these sensitive creatures has given him a profound appreciation of what they can teach us about ourselves. It has also made Fouts an outspoken opponent of biomedical experimentation on chimpanzees. A voyage of scientific discovery and interspecies communication, this is a stirring tale of friendship, courage, and compassion that will change forever the way we view our biological--and spritual--next of kin.",
+            "authors": "Roger Fouts",
+            "image": "..\\new_books_image\\325779.jpg",
+            "url": "https:\/\/www.amazon.com\/gp\/product\/0380728222\/ref=x_gr_bb_amazon?ie=UTF8&tag=x_gr_bb_amazon-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0380728222&SubscriptionId=1MGPYB6YW3HWK55XCGG2"
+        },
+        {
+            "id": "3319324284",
+            "title": "Programming for Computations - Python",
+            "subtitle": "A Gentle Introduction to Numerical Simulations with Python",
+            "authors": "Svein Linge, Hans Petter Langtangen",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/3319324284s.jpg",
+            "url": "https:\/\/www.dbooks.org\/programming-for-computations-python-3319324284\/"
+        },
+        {
+            "id": "1503212300",
+            "title": "Invent Your Own Computer Games with Python",
+            "subtitle": "A beginner&#039;s guide to computer programming in Python",
+            "authors": "Al Sweigart",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1503212300s.jpg",
+            "url": "https:\/\/www.dbooks.org\/invent-your-own-computer-games-with-python-1503212300\/"
+        },
+        {
+            "id": "1586",
+            "title": "Coffee Break Python Slicing",
+            "subtitle": "24 Workouts to Master Slicing in Python, Once and for All",
+            "authors": "Christian Mayer",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1586s.jpg",
+            "url": "https:\/\/www.dbooks.org\/coffee-break-python-slicing-1586\/"
+        },
+        {
+            "id": "1912047918",
+            "title": "Create Graphical User Interfaces with Python",
+            "subtitle": "How to build windows, buttons, and widgets for your Python projects",
+            "authors": "Martin O&#039;Hanlon, Laura Sach",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1912047918s.jpg",
+            "url": "https:\/\/www.dbooks.org\/create-graphical-user-interfaces-with-python-1912047918\/"
+        },
+        {
+            "id": "3319524623",
+            "title": "Solving PDEs in Python",
+            "subtitle": "The FEniCS Tutorial I",
+            "authors": "Hans Petter Langtangen, Anders Logg",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/3319524623s.jpg",
+            "url": "https:\/\/www.dbooks.org\/solving-pdes-in-python-3319524623\/"
+        },
+        {
+            "id": "1482614375",
+            "title": "Hacking Secret Ciphers with Python",
+            "subtitle": "A beginner&#039;s guide to cryptography and computer programming with Python",
+            "authors": "Al Sweigart",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1482614375s.jpg",
+            "url": "https:\/\/www.dbooks.org\/hacking-secret-ciphers-with-python-1482614375\/"
+        },
+        {
+            "id": "1469901730",
+            "title": "Making Games with Python &amp; Pygame",
+            "subtitle": "A guide to programming with graphics, animation, and sound",
+            "authors": "Al Sweigart",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1469901730s.jpg",
+            "url": "https:\/\/www.dbooks.org\/making-games-with-python-pygame-1469901730\/"
+        },
+        {
+            "id": "099977302X",
+            "title": "Python Machine Learning Projects",
+            "subtitle": "",
+            "authors": "Lisa Tagliaferri, Michelle Morales, Ellie Birkbeck, Alvin Wan",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/099977302Xs.jpg",
+            "url": "https:\/\/www.dbooks.org\/python-machine-learning-projects-099977302x\/"
+        },
+        {
+            "id": "1515",
+            "title": "Introduction to Python for Computational Science and Engineering",
+            "subtitle": "A beginner&#039;s guide",
+            "authors": "Hans Fangohr",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1515s.jpg",
+            "url": "https:\/\/www.dbooks.org\/introduction-to-python-for-computational-science-and-engineering-1515\/"
+        },
+        {
+            "id": "0999773011",
+            "title": "How To Code in Python 3",
+            "subtitle": "",
+            "authors": "Lisa Tagliaferri",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/0999773011s.jpg",
+            "url": "https:\/\/www.dbooks.org\/how-to-code-in-python-3-0999773011\/"
+        },
+        {
+            "id": "1491964650",
+            "title": "A Whirlwind Tour of Python",
+            "subtitle": "",
+            "authors": "Jake VanderPlas",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1491964650s.jpg",
+            "url": "https:\/\/www.dbooks.org\/a-whirlwind-tour-of-python-1491964650\/"
+        },
+        {
+            "id": "5591650063",
+            "title": "Python Notes for Professionals",
+            "subtitle": "",
+            "authors": "Stack Overflow Community",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/5591650063s.jpg",
+            "url": "https:\/\/www.dbooks.org\/python-notes-for-professionals-5591650063\/"
+        },
+        {
+            "id": "5595844388",
+            "title": "The Coder&#039;s Apprentice",
+            "subtitle": "Learning Programming with Python 3",
+            "authors": "Pieter Spronck",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/5595844388s.jpg",
+            "url": "https:\/\/www.dbooks.org\/the-coders-apprentice-5595844388\/"
+        },
+        {
+            "id": "3030503569",
+            "title": "Introduction to Scientific Programming with Python",
+            "subtitle": "",
+            "authors": "Joakim Sundnes",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/3030503569s.jpg",
+            "url": "https:\/\/www.dbooks.org\/introduction-to-scientific-programming-with-python-3030503569\/"
+        },
+        {
+            "id": "5614606548",
+            "title": "Snake Wrangling for Kids",
+            "subtitle": "Learning to Program with Python",
+            "authors": "Jason Briggs",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/5614606548s.jpg",
+            "url": "https:\/\/www.dbooks.org\/snake-wrangling-for-kids-5614606548\/"
+        },
+        {
+            "id": "1530051126",
+            "title": "Python for Everybody",
+            "subtitle": "Exploring Data Using Python 3",
+            "authors": "Dr. Charles Severance",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1530051126s.jpg",
+            "url": "https:\/\/www.dbooks.org\/python-for-everybody-1530051126\/"
+        },
+        {
+            "id": "5616397074",
+            "title": "Python for You and Me",
+            "subtitle": "",
+            "authors": "Kushal Das",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/5616397074s.jpg",
+            "url": "https:\/\/www.dbooks.org\/python-for-you-and-me-5616397074\/"
+        },
+        {
+            "id": "5656491028",
+            "title": "Open Workbook of Cryptology",
+            "subtitle": "A project-based introduction to crypto in Python",
+            "authors": "Jonathan A. Poritz",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/5656491028s.jpg",
+            "url": "https:\/\/www.dbooks.org\/open-workbook-of-cryptology-5656491028\/"
+        },
+        {
+            "id": "5670579292",
+            "title": "Learn Python the right way",
+            "subtitle": "How to think like a computer scientist",
+            "authors": "Peter Wentworth, Jeffrey Elkner, Allen B. Downey, Chris Meyers",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/5670579292s.jpg",
+            "url": "https:\/\/www.dbooks.org\/learn-python-the-right-way-5670579292\/"
+        },
+        {
+            "id": "1491939362",
+            "title": "Think Python",
+            "subtitle": "How to Think Like a Computer Scientist",
+            "authors": "Allen Downey",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1491939362s.jpg",
+            "url": "https:\/\/www.dbooks.org\/think-python-1491939362\/"
+        },
+        {
+            "id": "847",
+            "title": "Modeling and Simulation in Python",
+            "subtitle": "",
+            "authors": "Allen Downey",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/847s.jpg",
+            "url": "https:\/\/www.dbooks.org\/modeling-and-simulation-in-python-847\/"
+        },
+        {
+            "id": "1200",
+            "title": "Fundamentals of Python Programming",
+            "subtitle": "",
+            "authors": "Richard L. Halterman",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1200s.jpg",
+            "url": "https:\/\/www.dbooks.org\/fundamentals-of-python-programming-1200\/"
+        },
+        {
+            "id": "1219",
+            "title": "A Byte of Python",
+            "subtitle": "",
+            "authors": "Swaroop C H",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1219s.jpg",
+            "url": "https:\/\/www.dbooks.org\/a-byte-of-python-1219\/"
+        },
+        {
+            "id": "0991160401",
+            "title": "Annotated Algorithms in Python",
+            "subtitle": "With applications in Physics, Biology, and Finance",
+            "authors": "Massimo Di Pierro",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/0991160401s.jpg",
+            "url": "https:\/\/www.dbooks.org\/annotated-algorithms-in-python-0991160401\/"
+        },
+        {
+            "id": "1542",
+            "title": "Biopython: Tutorial and Cookbook",
+            "subtitle": "Python Tools for Computational Molecular Biology",
+            "authors": "Jeff Chang, Brad Chapman, Iddo Friedberg, Thomas Hamelryck, Michiel de Hoon, Peter Cock, Tiago Antao, Eric Talevich, Bartek Wilczy\u0144ski",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1542s.jpg",
+            "url": "https:\/\/www.dbooks.org\/biopython-tutorial-and-cookbook-1542\/"
+        },
+        {
+            "id": "1491934476",
+            "title": "How to Make Mistakes in Python",
+            "subtitle": "",
+            "authors": "Mike Pirnat",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1491934476s.jpg",
+            "url": "https:\/\/www.dbooks.org\/how-to-make-mistakes-in-python-1491934476\/"
+        },
+        {
+            "id": "1590",
+            "title": "Python re(gex)?",
+            "subtitle": "A magical tool for text processing",
+            "authors": "Sundeep Agarwal",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1590s.jpg",
+            "url": "https:\/\/www.dbooks.org\/python-regex-1590\/"
+        },
+        {
+            "id": "1449341934",
+            "title": "Programming Computer Vision with Python",
+            "subtitle": "Tools and algorithms for analyzing images",
+            "authors": "Jan Erik Solem",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1449341934s.jpg",
+            "url": "https:\/\/www.dbooks.org\/programming-computer-vision-with-python-1449341934\/"
+        },
+        {
+            "id": "5591691523",
+            "title": "Full Speed Python",
+            "subtitle": "",
+            "authors": "Jo\u00e3o Ventura",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/5591691523s.jpg",
+            "url": "https:\/\/www.dbooks.org\/full-speed-python-5591691523\/"
+        },
+        {
+            "id": "5592544642",
+            "title": "Robotic Process Automation Succinctly",
+            "subtitle": "",
+            "authors": "Ed Freitas",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/5592544642s.jpg",
+            "url": "https:\/\/www.dbooks.org\/robotic-process-automation-succinctly-5592544642\/"
+        },
+        {
+            "id": "1722834927",
+            "title": "Learn Programming",
+            "subtitle": "Your Guided Tour Through the Programming Jungle",
+            "authors": "Antti Salonen",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1722834927s.jpg",
+            "url": "https:\/\/www.dbooks.org\/learn-programming-1722834927\/"
+        },
+        {
+            "id": "5614772358",
+            "title": "A Practical Introduction to Python Programming",
+            "subtitle": "",
+            "authors": "Brian Heinold",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/5614772358s.jpg",
+            "url": "https:\/\/www.dbooks.org\/a-practical-introduction-to-python-programming-5614772358\/"
+        },
+        {
+            "id": "191204773X",
+            "title": "Raspberry Pi Beginner&#039;s Guide",
+            "subtitle": "How to use your new computer",
+            "authors": "Gareth Halfacree",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/191204773Xs.jpg",
+            "url": "https:\/\/www.dbooks.org\/raspberry-pi-beginners-guide-191204773x\/"
+        },
+        {
+            "id": "0971677506",
+            "title": "How to Think Like a Computer Scientist",
+            "subtitle": "Learning with Python",
+            "authors": "Allen Downey, Jeffrey Elkner, Chris Meyers",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/0971677506s.jpg",
+            "url": "https:\/\/www.dbooks.org\/how-to-think-like-a-computer-scientist-0971677506\/"
+        },
+        {
+            "id": "5635274259",
+            "title": "First Semester in Numerical Analysis with Python",
+            "subtitle": "",
+            "authors": "Yaning Liu",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/5635274259s.jpg",
+            "url": "https:\/\/www.dbooks.org\/first-semester-in-numerical-analysis-with-python-5635274259\/"
+        },
+        {
+            "id": "1003181376",
+            "title": "Developing Graphics Frameworks with Python and OpenGL",
+            "subtitle": "",
+            "authors": "Lee Stemkoski, Michael Pascale",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1003181376s.jpg",
+            "url": "https:\/\/www.dbooks.org\/developing-graphics-frameworks-with-python-and-opengl-1003181376\/"
+        },
+        {
+            "id": "3319554565",
+            "title": "Finite Difference Computing with PDEs",
+            "subtitle": "A Modern Software Approach",
+            "authors": "Hans Petter Langtangen, Svein Linge",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/3319554565s.jpg",
+            "url": "https:\/\/www.dbooks.org\/finite-difference-computing-with-pdes-3319554565\/"
+        },
+        {
+            "id": "3319294393",
+            "title": "Finite Difference Computing with Exponential Decay Models",
+            "subtitle": "",
+            "authors": "Hans Petter Langtangen",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/3319294393s.jpg",
+            "url": "https:\/\/www.dbooks.org\/finite-difference-computing-with-exponential-decay-models-3319294393\/"
+        },
+        {
+            "id": "1449370780",
+            "title": "Think Bayes",
+            "subtitle": "Bayesian Statistics in Python",
+            "authors": "Allen Downey",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1449370780s.jpg",
+            "url": "https:\/\/www.dbooks.org\/think-bayes-1449370780\/"
+        },
+        {
+            "id": "1491938455",
+            "title": "Think DSP",
+            "subtitle": "Digital Signal Processing in Python",
+            "authors": "Allen Downey",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1491938455s.jpg",
+            "url": "https:\/\/www.dbooks.org\/think-dsp-1491938455\/"
+        },
+        {
+            "id": "3030223868",
+            "title": "Bioimage Data Analysis Workflows",
+            "subtitle": "",
+            "authors": "Kota Miura, Nata\u0161a Sladoje",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/3030223868s.jpg",
+            "url": "https:\/\/www.dbooks.org\/bioimage-data-analysis-workflows-3030223868\/"
+        },
+        {
+            "id": "1241",
+            "title": "The Little Book of Semaphores",
+            "subtitle": "",
+            "authors": "Allen Downey",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1241s.jpg",
+            "url": "https:\/\/www.dbooks.org\/the-little-book-of-semaphores-1241\/"
+        },
+        {
+            "id": "1912047527",
+            "title": "Raspberry Pi Camera Guide",
+            "subtitle": "For Camera Module &amp; High Quality Camera",
+            "authors": "Dan Aldred, Wesley Archer, Jody Carter, PJ Evans,\nRichard Hayler, James Singleton, Rob Zwetsloot",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1912047527s.jpg",
+            "url": "https:\/\/www.dbooks.org\/raspberry-pi-camera-guide-1912047527\/"
+        },
+        {
+            "id": "1252",
+            "title": "Retro Gaming with Raspberry Pi",
+            "subtitle": "",
+            "authors": "Bob Clagett, David Crookes, PJ Evans, Rosie Hattersley, KG Orphanides, Ruiz Brothers, Mark Vanstone",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1252s.jpg",
+            "url": "https:\/\/www.dbooks.org\/retro-gaming-with-raspberry-pi-1252\/"
+        },
+        {
+            "id": "1524",
+            "title": "Qt5 Cadaques",
+            "subtitle": "",
+            "authors": "J. Ryannel, J. Thelin",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1524s.jpg",
+            "url": "https:\/\/www.dbooks.org\/qt5-cadaques-1524\/"
+        },
+        {
+            "id": "396110090X",
+            "title": "The Unicode Cookbook for Linguists",
+            "subtitle": "Managing writing systems using orthography profiles",
+            "authors": "Steven Moran, Michael Cysouw",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/396110090Xs.jpg",
+            "url": "https:\/\/www.dbooks.org\/the-unicode-cookbook-for-linguists-396110090x\/"
+        },
+        {
+            "id": "5606038334",
+            "title": "Learning Vim",
+            "subtitle": "",
+            "authors": "Stack Overflow Community",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/5606038334s.jpg",
+            "url": "https:\/\/www.dbooks.org\/learning-vim-5606038334\/"
+        },
+        {
+            "id": "180064177X",
+            "title": "Inventory Analytics",
+            "subtitle": "",
+            "authors": "Roberto Rossi",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/180064177Xs.jpg",
+            "url": "https:\/\/www.dbooks.org\/inventory-analytics-180064177x\/"
+        },
+        {
+            "id": "1912047594",
+            "title": "Code the Classics",
+            "subtitle": "Volume 1",
+            "authors": "David Crookes, Andrew Gillett, Liz Upton, Eben Upton, Sean M. Tracey, Dan Malone, Allister Brimble",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1912047594s.jpg",
+            "url": "https:\/\/www.dbooks.org\/code-the-classics-1912047594\/"
+        },
+        {
+            "id": "164200216X",
+            "title": "Ansible Succinctly",
+            "subtitle": "",
+            "authors": "Zoran Maksimovic",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/164200216Xs.jpg",
+            "url": "https:\/\/www.dbooks.org\/ansible-succinctly-164200216x\/"
+        },
+        {
+            "id": "5655289669",
+            "title": "Retro Gaming with Raspberry Pi",
+            "subtitle": "",
+            "authors": "David Crookes, PJ Evans, Rosie Hattersley, Nicola King, Phil King, KG Orphanides, Mark Vanstone",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/5655289669s.jpg",
+            "url": "https:\/\/www.dbooks.org\/retro-gaming-with-raspberry-pi-5655289669\/"
+        },
+        {
+            "id": "3319327267",
+            "title": "Scaling of Differential Equations",
+            "subtitle": "",
+            "authors": "Hans Petter Langtangen, Geir K. Pedersen",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/3319327267s.jpg",
+            "url": "https:\/\/www.dbooks.org\/scaling-of-differential-equations-3319327267\/"
+        },
+        {
+            "id": "3319324527",
+            "title": "Programming for Computations - MATLAB\/Octave",
+            "subtitle": "A Gentle Introduction to Numerical Simulations with MATLAB\/Octave",
+            "authors": "Svein Linge, Hans Petter Langtangen",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/3319324527s.jpg",
+            "url": "https:\/\/www.dbooks.org\/programming-for-computations-matlaboctave-3319324527\/"
+        },
+        {
+            "id": "3319625330",
+            "title": "Elements of Robotics",
+            "subtitle": "",
+            "authors": "Mordechai Ben-Ari, Francesco Mondada",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/3319625330s.jpg",
+            "url": "https:\/\/www.dbooks.org\/elements-of-robotics-3319625330\/"
+        },
+        {
+            "id": "1491911867",
+            "title": "What Is Data Science?",
+            "subtitle": "The future belongs to the companies  and people that turn data into products",
+            "authors": "Mike Loukides",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1491911867s.jpg",
+            "url": "https:\/\/www.dbooks.org\/what-is-data-science-1491911867\/"
+        },
+        {
+            "id": "149194529X",
+            "title": "Lightweight Systems for Realtime Monitoring",
+            "subtitle": "Tools to unlock and understand your business data",
+            "authors": "Sam Newman",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/149194529Xs.jpg",
+            "url": "https:\/\/www.dbooks.org\/lightweight-systems-for-realtime-monitoring-149194529x\/"
+        },
+        {
+            "id": "1492040207",
+            "title": "Think Complexity",
+            "subtitle": "Complexity Science and Computational Modeling",
+            "authors": "Allen Downey",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1492040207s.jpg",
+            "url": "https:\/\/www.dbooks.org\/think-complexity-1492040207\/"
+        },
+        {
+            "id": "1491907339",
+            "title": "Think Stats",
+            "subtitle": "Exploratory Data Analysis",
+            "authors": "Allen Downey",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1491907339s.jpg",
+            "url": "https:\/\/www.dbooks.org\/think-stats-1491907339\/"
+        },
+        {
+            "id": "0596529260",
+            "title": "RESTful Web Services",
+            "subtitle": "Web Services for the Real World",
+            "authors": "Leonard Richardson, Sam Ruby",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/0596529260s.jpg",
+            "url": "https:\/\/www.dbooks.org\/restful-web-services-0596529260\/"
+        },
+        {
+            "id": "1201",
+            "title": "Fundamentals of C++ Programming",
+            "subtitle": "",
+            "authors": "Richard L. Halterman",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1201s.jpg",
+            "url": "https:\/\/www.dbooks.org\/fundamentals-of-c-programming-1201\/"
+        },
+        {
+            "id": "1251",
+            "title": "Raspberry Pi Projects Book",
+            "subtitle": "Volume 5",
+            "authors": "Wes Archer, David Crookes, PJ Evans, Gareth Halfacree, Rosie Hattersley, Nicola King, Ben Nuttall, Marc Scott, Danny Staple, Mark Vanstone",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1251s.jpg",
+            "url": "https:\/\/www.dbooks.org\/raspberry-pi-projects-book-1251\/"
+        },
+        {
+            "id": "3319688375",
+            "title": "Essentials of Business Analytics",
+            "subtitle": "An Introduction to the Methodology and its Applications",
+            "authors": "Bhimasankaram Pochiraju, Sridhar Seshadri",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/3319688375s.jpg",
+            "url": "https:\/\/www.dbooks.org\/essentials-of-business-analytics-3319688375\/"
+        },
+        {
+            "id": "3319578839",
+            "title": "Eye Tracking Methodology",
+            "subtitle": "Theory and Practice",
+            "authors": "Andrew T. Duchowski",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/3319578839s.jpg",
+            "url": "https:\/\/www.dbooks.org\/eye-tracking-methodology-3319578839\/"
+        },
+        {
+            "id": "3319911554",
+            "title": "Analysis for Computer Scientists",
+            "subtitle": "Foundations, Methods, and Algorithms",
+            "authors": "Michael Oberguggenberger, Alexander Ostermann",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/3319911554s.jpg",
+            "url": "https:\/\/www.dbooks.org\/analysis-for-computer-scientists-3319911554\/"
+        },
+        {
+            "id": "1437",
+            "title": "TensorFlow Roadmap",
+            "subtitle": "Mastering the TensorFlow by knowing where to start",
+            "authors": "Amirsina Torfi",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1437s.jpg",
+            "url": "https:\/\/www.dbooks.org\/tensorflow-roadmap-1437\/"
+        },
+        {
+            "id": "1098114566",
+            "title": "A Case Study in Community-Driven Software Adoption",
+            "subtitle": "How Google SRE Changed Its Behavior Without Changing Its Culture",
+            "authors": "Richard Bondi",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1098114566s.jpg",
+            "url": "https:\/\/www.dbooks.org\/a-case-study-in-community-driven-software-adoption-1098114566\/"
+        },
+        {
+            "id": "1531",
+            "title": "MongoDB Notes for Professionals",
+            "subtitle": "",
+            "authors": "Stack Overflow Community",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1531s.jpg",
+            "url": "https:\/\/www.dbooks.org\/mongodb-notes-for-professionals-1531\/"
+        },
+        {
+            "id": "1537",
+            "title": "SAT\/SMT by Example",
+            "subtitle": "",
+            "authors": "Dennis Yurichev",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1537s.jpg",
+            "url": "https:\/\/www.dbooks.org\/satsmt-by-example-1537\/"
+        },
+        {
+            "id": "1564",
+            "title": "Keras Succinctly",
+            "subtitle": "",
+            "authors": "James McCaffrey",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1564s.jpg",
+            "url": "https:\/\/www.dbooks.org\/keras-succinctly-1564\/"
+        },
+        {
+            "id": "1583",
+            "title": "Introduction to CNTK Succinctly",
+            "subtitle": "",
+            "authors": "James McCaffrey",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1583s.jpg",
+            "url": "https:\/\/www.dbooks.org\/introduction-to-cntk-succinctly-1583\/"
+        },
+        {
+            "id": "1588",
+            "title": "Docker for Developers",
+            "subtitle": "",
+            "authors": "Rafael Gomes",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1588s.jpg",
+            "url": "https:\/\/www.dbooks.org\/docker-for-developers-1588\/"
+        },
+        {
+            "id": "303031846X",
+            "title": "Computational Cognitive Modeling and Linguistic Theory",
+            "subtitle": "",
+            "authors": "Adrian Brasoveanu, Jakub Dotla\u010dil",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/303031846Xs.jpg",
+            "url": "https:\/\/www.dbooks.org\/computational-cognitive-modeling-and-linguistic-theory-303031846x\/"
+        },
+        {
+            "id": "1942341091",
+            "title": "Introduction to the Modeling and Analysis of Complex Systems",
+            "subtitle": "",
+            "authors": "Hiroki Sayama",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1942341091s.jpg",
+            "url": "https:\/\/www.dbooks.org\/introduction-to-the-modeling-and-analysis-of-complex-systems-1942341091\/"
+        },
+        {
+            "id": "5605861198",
+            "title": "Classical Object-Oriented Programming with ECMAScript",
+            "subtitle": "",
+            "authors": "Mike Gerwitz",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/5605861198s.jpg",
+            "url": "https:\/\/www.dbooks.org\/classical-object-oriented-programming-with-ecmascript-5605861198\/"
+        },
+        {
+            "id": "5605980453",
+            "title": "Learning MongoDB",
+            "subtitle": "",
+            "authors": "Stack Overflow Community",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/5605980453s.jpg",
+            "url": "https:\/\/www.dbooks.org\/learning-mongodb-5605980453\/"
+        },
+        {
+            "id": "5606033328",
+            "title": "Learning Regular Expressions",
+            "subtitle": "",
+            "authors": "Stack Overflow Community",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/5606033328s.jpg",
+            "url": "https:\/\/www.dbooks.org\/learning-regular-expressions-5606033328\/"
+        },
+        {
+            "id": "1105559297",
+            "title": "Applied Discrete Structures",
+            "subtitle": "",
+            "authors": "Al Doerr, Ken Levasseur",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1105559297s.jpg",
+            "url": "https:\/\/www.dbooks.org\/applied-discrete-structures-1105559297\/"
+        },
+        {
+            "id": "1492078565",
+            "title": "NGINX Unit Cookbook",
+            "subtitle": "Recipes for Using a Versatile Open Source Server",
+            "authors": "Derek DeJonghe",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1492078565s.jpg",
+            "url": "https:\/\/www.dbooks.org\/nginx-unit-cookbook-1492078565\/"
+        },
+        {
+            "id": "3030479943",
+            "title": "Leveraging Data Science for Global Health",
+            "subtitle": "",
+            "authors": "Leo Anthony Celi, Maimuna S. Majumder, Patricia Ord\u00f3\u00f1ez, Juan Sebastian Osorio, Kenneth E. Paik, Melek Somai",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/3030479943s.jpg",
+            "url": "https:\/\/www.dbooks.org\/leveraging-data-science-for-global-health-3030479943\/"
+        },
+        {
+            "id": "5614772998",
+            "title": "Problem Solving with Algorithms and Data Structures",
+            "subtitle": "",
+            "authors": "Brad Miller, David Ranum",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/5614772998s.jpg",
+            "url": "https:\/\/www.dbooks.org\/problem-solving-with-algorithms-and-data-structures-5614772998\/"
+        },
+        {
+            "id": "1912047888",
+            "title": "The Official Raspberry Pi Handbook 2021",
+            "subtitle": "",
+            "authors": "David Crookes, PJ Evans, Gareth Halfacree, Rosie Hattersley, Nicola King, Simon Monk, Mark Vanstone",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1912047888s.jpg",
+            "url": "https:\/\/www.dbooks.org\/the-official-raspberry-pi-handbook-2021-1912047888\/"
+        },
+        {
+            "id": "1912047861",
+            "title": "Get Started with MicroPython on Raspberry Pi Pico",
+            "subtitle": "",
+            "authors": "Gareth Halfacree, Ben Everard",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1912047861s.jpg",
+            "url": "https:\/\/www.dbooks.org\/get-started-with-micropython-on-raspberry-pi-pico-1912047861\/"
+        },
+        {
+            "id": "5629144833",
+            "title": "Think OCaml",
+            "subtitle": "How to Think Like a (Functional) Programmer",
+            "authors": "Allen Downey, Nicholas Monje",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/5629144833s.jpg",
+            "url": "https:\/\/www.dbooks.org\/think-ocaml-5629144833\/"
+        },
+        {
+            "id": "5629146778",
+            "title": "Just Enough R",
+            "subtitle": "Learn Data Analysis with R in a Day",
+            "authors": "Sivakumaran Raman",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/5629146778s.jpg",
+            "url": "https:\/\/www.dbooks.org\/just-enough-r-5629146778\/"
+        },
+        {
+            "id": "5635347913",
+            "title": "The Official Raspberry Pi Handbook 2022",
+            "subtitle": "",
+            "authors": "Wes Archer, David Crookes, PJ Evans, Gareth Halfacree, Rosie Hattersley, Phil King, Nicola King, KG Orphanides",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/5635347913s.jpg",
+            "url": "https:\/\/www.dbooks.org\/the-official-raspberry-pi-handbook-2022-5635347913\/"
+        },
+        {
+            "id": "138775615X",
+            "title": "The Little ASP.NET Core Book",
+            "subtitle": "",
+            "authors": "Nate Barbettini",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/138775615Xs.jpg",
+            "url": "https:\/\/www.dbooks.org\/the-little-aspnet-core-book-138775615x\/"
+        },
+        {
+            "id": "5650385693",
+            "title": "Deploying NGINX as an API Gateway",
+            "subtitle": "",
+            "authors": "Liam Crilly",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/5650385693s.jpg",
+            "url": "https:\/\/www.dbooks.org\/deploying-nginx-as-an-api-gateway-5650385693\/"
+        },
+        {
+            "id": "0983159238",
+            "title": "Debugging with GDB",
+            "subtitle": "The GNU Source-Level Debugger",
+            "authors": "Richard Stallman, Roland Pesch, Stan Shebs",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/0983159238s.jpg",
+            "url": "https:\/\/www.dbooks.org\/debugging-with-gdb-0983159238\/"
+        },
+        {
+            "id": "5655276738",
+            "title": "Beej&#039;s Guide to C Programming",
+            "subtitle": "",
+            "authors": "Brian &quot;Beej Jorgensen&quot; Hall",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/5655276738s.jpg",
+            "url": "https:\/\/www.dbooks.org\/beejs-guide-to-c-programming-5655276738\/"
+        },
+        {
+            "id": "5656235487",
+            "title": "HackSpace Magazine: Issue 56",
+            "subtitle": "July 2022",
+            "authors": "HackSpace Team",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/5656235487s.jpg",
+            "url": "https:\/\/www.dbooks.org\/hackspace-magazine-issue-56-5656235487\/"
+        },
+        {
+            "id": "5658402714",
+            "title": "HackSpace Magazine: Issue 57",
+            "subtitle": "August 2022",
+            "authors": "HackSpace Team",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/5658402714s.jpg",
+            "url": "https:\/\/www.dbooks.org\/hackspace-magazine-issue-57-5658402714\/"
+        },
+        {
+            "id": "1509300597",
+            "title": "Azure Web Apps for Developers",
+            "subtitle": "Microsoft Azure Essentials",
+            "authors": "Rick Rainey",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1509300597s.jpg",
+            "url": "https:\/\/www.dbooks.org\/azure-web-apps-for-developers-1509300597\/"
+        },
+        {
+            "id": "5664978964",
+            "title": "The Big Book of Machine Learning Use Cases",
+            "subtitle": "Your complete how-to guide to putting ML to work - plus code samples and notebooks",
+            "authors": "Ricardo Portilla, Brenner Heintz, Denny Lee",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/5664978964s.jpg",
+            "url": "https:\/\/www.dbooks.org\/the-big-book-of-machine-learning-use-cases-5664978964\/"
+        },
+        {
+            "id": "5670938239",
+            "title": "The Julia Express",
+            "subtitle": "",
+            "authors": "Bogumi\u0142 Kami\u0144ski",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/5670938239s.jpg",
+            "url": "https:\/\/www.dbooks.org\/the-julia-express-5670938239\/"
+        },
+        {
+            "id": "1492036811",
+            "title": "Container Networking",
+            "subtitle": "From Docker to Kubernetes",
+            "authors": "Michael Hausenblas",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/1492036811s.jpg",
+            "url": "https:\/\/www.dbooks.org\/container-networking-1492036811\/"
+        },
+        {
+            "id": "5676984863",
+            "title": "HackSpace Magazine: Issue 63",
+            "subtitle": "February 2023",
+            "authors": "HackSpace Team",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/5676984863s.jpg",
+            "url": "https:\/\/www.dbooks.org\/hackspace-magazine-issue-63-5676984863\/"
+        },
+        {
+            "id": "9463666656",
+            "title": "Numerical Methods for Ordinary Differential Equations",
+            "subtitle": "",
+            "authors": "Kees Vuik, Fred Vermolen, Martin van Gijzen",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/9463666656s.jpg",
+            "url": "https:\/\/www.dbooks.org\/numerical-methods-for-ordinary-differential-equations-9463666656\/"
+        },
+        {
+            "id": "191204742X",
+            "title": "The Official Raspberry Pi Handbook 2023",
+            "subtitle": "",
+            "authors": "David Crookes, PJ Evans, Rosie Hattersley, Phil King, Nicola King, KG Orphanides, Nik Rawlinson, Mark Vanstone",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/191204742Xs.jpg",
+            "url": "https:\/\/www.dbooks.org\/the-official-raspberry-pi-handbook-2023-191204742x\/"
+        },
+        {
+            "id": "5685527822",
+            "title": "HackSpace Magazine: Issue 65",
+            "subtitle": "April 2023",
+            "authors": "HackSpace Team",
+            "image": "https:\/\/www.dbooks.org\/img\/books\/5685527822s.jpg",
+            "url": "https:\/\/www.dbooks.org\/hackspace-magazine-issue-65-5685527822\/"
+        }
+    ]
+}

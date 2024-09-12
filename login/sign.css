@@ -1,0 +1,73 @@
+.container {
+    position: relative;
+    background-image: url("/p1/image/login_back.jpeg");
+    height: 680px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .info {
+        padding: 10px;
+        background-color: rgb(10, 85, 156);
+        text-align: center;
+        width: 320px;
+        height: fit-content;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        color: white;
+        font-size: 20px;
+        border-radius: 9px;
+        box-shadow: 5px 5px rgb(2 46 148 / 50%);
+        z-index: 1;
+        .login {
+            display: flex;
+            flex-direction: column;
+            width: 300px;
+            .con {
+                display: flex;
+                flex-direction: column;
+                span {
+                    font-size: 15px;
+                    color: #d5b1b1;
+                }
+            }
+            input {
+                padding: 8px 3px;
+                margin: 10px;
+                border: none;
+                border-radius: 6px;
+                cursor: pointer;
+            }
+            input:last-child:hover {
+                background-color: rgb(95 146 220);
+                transition: .3s;
+            }
+            input.error {
+                border: 3px solid #d5b1b1;
+            }
+        }
+        a {
+            padding: 5px 3px;
+            font-size: 15px;
+            color: white;
+            text-decoration: none;
+            margin: 5px 0 0;
+        }
+        p {
+            font-size: 15px;
+            color: #d5b1b1;
+            padding: 5px;
+            border: 1px solid #d5b1b1;
+            border-radius: 6px;
+        }
+    }
+}
+
+.container::before {
+    position: absolute;
+    content: " ";
+    background-color: rgb(88 104 255 / 40%);
+    height: 100%;
+    width: 100%;
+}

@@ -1,0 +1,74 @@
+.books-info {
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    margin-left: 30px;
+    border-left: 4px solid #808080;
+    overflow-y: auto;
+    .book {
+        min-width: 1000px;
+        display: flex;
+        margin-bottom: 30px;
+        border-bottom: 3px solid #808080;
+        padding: 10px 0;
+        .image {
+            width: 300px;
+            padding: 0 30px 30px;
+            img {
+                width: 250px;
+                border-radius: 10px;
+                cursor: pointer;
+            }
+            ;
+        }
+        ;
+        .book-con {
+            flex: 1;
+            max-width: 700px;
+            position: relative;
+            h3 {
+                cursor: pointer;
+            }
+            ;
+            p {
+                line-height: 1.5;
+                margin-bottom: 25px;
+                color: #5c5c5c;
+            }
+            ;
+            i {
+                color: #c12727;
+            }
+            ;
+            a {
+                border: 1px solid #808080;
+                padding: 3px 5px;
+                border-radius: 6px;
+                line-height: 1;
+                color: #5c5c5c;
+            }
+            a:hover {
+                background-color: rgb(127 127 221);
+                color: white;
+                transition: .5s;
+            }
+            button {
+                position: absolute;
+                right: 0;
+                top: 0;
+                line-height: 1;
+                padding: 3px 5px;
+                cursor: pointer;
+            }
+        }
+    }
+    .book:last-child {
+        border-bottom: none;
+    }
+    ;
+    .massage {
+        text-align: center;
+        color: #FF8A65;
+    }
+}

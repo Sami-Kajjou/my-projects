@@ -1,0 +1,162 @@
+.container {
+    .main-con {
+        position: relative;
+        min-height: 600px;
+        max-height: 650px;
+        padding: 0 20px;
+        margin-left: 30px;
+        flex: 1;
+        display: flex;
+        .person {
+            position: relative;
+            margin-top: 20px;
+            width: 250px;
+            margin-right: 60px;
+            .image {
+                position: relative;
+                img {
+                    width: 250px;
+                    min-height: 315px;
+                    max-height: 350px;
+                }
+                i.fa-user-circle {
+                    font-size: 250px;
+                }
+                i.fa-pencil-alt {
+                    position: absolute;
+                    bottom: 10px;
+                    right: 10px;
+                    font-size: 20px;
+                    cursor: pointer;
+                }
+            }
+            .user-info {
+                .con {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    gap: 15px;
+                    padding-top: 10px;
+                    span {
+                        font-size: 20px;
+                    }
+                    .name {}
+                    .eamil {}
+                    a {
+                        padding: 2px 6px;
+                        background-color: #90CAF9;
+                        cursor: pointer;
+                    }
+                    a:hover {
+                        background-color: #acd4f5;
+                        transition: .3s;
+                    }
+                }
+            }
+        }
+        .person::before {
+            content: " ";
+            position: absolute;
+            background-color: #FFFDE7;
+            width: 110%;
+            height: 80%;
+            top: 36%;
+            left: 50%;
+            transform: translateX(-50%);
+            z-index: -1;
+        }
+        .books-div {
+            overflow-y: auto;
+            max-width: 835px;
+            min-width: 700px;
+            h2 {
+                margin-bottom: 5px;
+                background-color: #FFF176;
+                height: 60px;
+                display: flex;
+                align-items: center;
+                padding-left: 15px;
+            }
+            .books {
+                display: flex;
+                flex-wrap: wrap;
+                padding-left: 15px;
+                border-left: 3px solid #fff176;
+                justify-content: flex-start;
+                align-items: center;
+                border-right: 3px solid #fff176;
+                .text {
+                    flex: 1;
+                    text-align: center;
+                    font-size: 18px;
+                    color: #FF8A65;
+                }
+                .book {
+                    width: 200px;
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    align-items: center;
+                    text-align: center;
+                    .image {
+                        img {
+                            width: 150px;
+                            height: 225px;
+                            cursor: pointer;
+                        }
+                    }
+                    p {
+                        cursor: pointer;
+                    }
+                }
+            }
+        }
+        .div-form {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: #f3f3f3;
+            width: 500px;
+            height: 150px;
+            border-top-left-radius: 30px;
+            border-top-right-radius: 30px;
+            h2 {
+                text-align: center;
+                color: white;
+                background-color: #2196F3;
+                margin: 0;
+                padding: 10px 5px;
+                border-top-left-radius: 30px;
+                border-top-right-radius: 30px;
+            }
+            form {
+                padding: 0 20px 20px;
+                margin-top: 15px;
+                display: flex;
+                flex-direction: column;
+                input[type="submit"] {
+                    border: 1px solid #808080;
+                    border-radius: 5px;
+                    padding: 3px 5px;
+                    cursor: pointer;
+                    background-color: #2196F3;
+                    color: white;
+                }
+                .box {
+                    display: flex;
+                    justify-content: space-between;
+                }
+                a {
+                    padding: 4px 6px;
+                    background-color: #5c5c5c;
+                    color: white;
+                    border-radius: 6px;
+                    width: fit-content;
+                    margin: 20px auto 0;
+                    cursor: pointer;
+                }
+            }
+        }
+    }
+}
